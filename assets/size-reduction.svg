@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="330" viewBox="0 0 860 330" role="img" aria-labelledby="title desc">
+<title id="title">Reported LPDA physical size reductions</title>
+<desc id="desc">Triangular dipole geometry: approximately 30 percent; square dipole geometry: approximately 34 percent, relative to the conventional LPDA.</desc>
+<rect width="860" height="330" rx="18" fill="#0d1117"/>
+<text x="40" y="51" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#f0f6fc">Reported antenna size reduction</text>
+<text x="40" y="79" font-family="Arial,sans-serif" font-size="15" fill="#8b949e">Relative to conventional printed LPDA | thesis presentation</text>
+<text x="40" y="144" font-family="Arial,sans-serif" font-size="19" fill="#e6edf3">Triangular geometry</text>
+<rect x="284" y="117" width="440" height="32" rx="6" fill="#21262d"/>
+<rect x="284" y="117" width="330" height="32" rx="6" fill="#58a6ff"/>
+<text x="744" y="140" font-family="Arial,sans-serif" font-size="21" font-weight="bold" fill="#f0f6fc">30%</text>
+<text x="40" y="214" font-family="Arial,sans-serif" font-size="19" fill="#e6edf3">Square geometry</text>
+<rect x="284" y="187" width="440" height="32" rx="6" fill="#21262d"/>
+<rect x="284" y="187" width="374" height="32" rx="6" fill="#3fb950"/>
+<text x="744" y="210" font-family="Arial,sans-serif" font-size="21" font-weight="bold" fill="#f0f6fc">34%</text>
+<text x="40" y="276" font-family="Arial,sans-serif" font-size="15" fill="#8b949e">Approximate values reported in the defense slides; not new measurements</text>
+</svg>
