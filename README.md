@@ -16,16 +16,6 @@ A conventional printed LPDA is the reference design. Its straight dipole element
 | **Triangular LPDA** | Modified dipole geometry targeting a smaller physical footprint |
 | **Square LPDA** | Alternative modified dipole geometry targeting further compactness |
 
-### Antenna geometries from the thesis presentation
-
-The illustrations below trace the **triangular and square dipole outlines** shown in the uploaded thesis defense presentation. They retain the documented element shapes; the CST background grid and interface have been omitted for readability.
-
-| Triangular dipole geometry | Square dipole geometry |
-| :---: | :---: |
-| ![Triangular printed LPDA outline traced from thesis presentation](assets/triangular-lpda-from-presentation.svg) | ![Square printed LPDA outline traced from thesis presentation](assets/square-lpda-from-presentation.svg) |
-
-For the original CST screenshots and the conventional reference geometry, see the [thesis defense presentation](LPDA_Thesis_Defense_Presentation.pptx).
-
 The baseline design described in the thesis uses **11 dipole elements** and an **initial target range of 0.9–2.0 GHz**. The FR4 substrate parameters are:
 
 | Parameter | Value |
